@@ -1441,6 +1441,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-02",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44398432879",
+      "serviceCode": "44398432879",
+      "nationalId": "1140370238",
+      "idNumber": "1140370238",
+      "name": "حمدان محمد السبوتي  ",
+      "admissionDate": "2026-02-03",
+      "dischargeDate": "2026-02-03",
+      "leaveDuration": "1",
+      "doctorName": "زﻛﺮﻳﺎ ﻓﺎﻟﺢ اﻟﺨﻠﻴﻞ  ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-02",
+      "leaveType": "GSL"
     }
   ]
 }
