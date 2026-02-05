@@ -1,4 +1,4 @@
-{
+٨{
   "leaves": [
     {
       "leaveCode": "55886151331",
@@ -1454,6 +1454,20 @@
       "doctorName": "زﻛﺮﻳﺎ ﻓﺎﻟﺢ اﻟﺨﻠﻴﻞ  ",
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-02",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396751252",
+      "serviceCode": "44396751252",
+      "nationalId": "1143876496",
+      "idNumber": "1143876496",
+      "name": "رغد بشير بشيير البلوي  ",
+      "admissionDate": "2026-02-01",
+      "dischargeDate": "2026-02-02",
+      "leaveDuration": "2",
+      "doctorName": "سلمى حسين  ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-01",
       "leaveType": "GSL"
     }
   ]
