@@ -1497,6 +1497,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-01-29",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26015797256",
+      "serviceCode": "26015797256",
+      "nationalId": "1165808880",
+      "idNumber": "1165808880",
+      "name": "حور ابراهيم مهدي الدوسري  ",
+      "admissionDate": "2026-01-28",
+      "dischargeDate": "2026-01-28",
+      "leaveDuration": "1",
+      "doctorName": " حازم الجمعة",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-01-28",
+      "leaveType": "GSL"
     }
   ]
 }
