@@ -1539,6 +1539,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-05",
       "leaveType": "GSL"
-    }
+    },
+    {
+      "leaveCode": "44396751259",
+      "serviceCode": "44396751259",
+      "nationalId": "1141955367",
+      "idNumber": "1141955367",
+      "name": "ديم عبد العزيز بن شلهوب  ",
+      "admissionDate": "2026-02-08",
+      "dischargeDate": "2026-02-08",
+      "leaveDuration": "1",
+      "doctorName": "محمد مجدي   ",
+      "jobTitle": "اطبيب عام",
+      "issueDate": "2026-02-08",
+      "leaveType": "GSL"
+    },
   ]
 }
