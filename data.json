@@ -1777,6 +1777,62 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-11",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25096424577",
+      "serviceCode": "25096424577",
+      "nationalId": "1139143059",
+      "idNumber": "1139143059",
+      "name": "ريم مشعان نيف الدوسري  ",
+      "admissionDate": "19-01-2026",
+      "dischargeDate": "19-01-2026",
+      "leaveDuration": "1",
+      "doctorName": "مي عوض ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "19-01-2026",
+      "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25096424578",
+      "serviceCode": "25096424578",
+      "nationalId": "1139143059",
+      "idNumber": "1139143059",
+      "name": "ريم مشعان نيف الدوسري  ",
+      "admissionDate": "20-01-2026",
+      "dischargeDate": "20-01-2026",
+      "leaveDuration": "1",
+      "doctorName": "مي عوض ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "20-01-2026",
+      "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25096424579",
+      "serviceCode": "25096424579",
+      "nationalId": "1139143059",
+      "idNumber": "1139143059",
+      "name": "ريم مشعان نيف الدوسري  ",
+      "admissionDate": "29-01-2026",
+      "dischargeDate": "29-01-2026",
+      "leaveDuration": "1",
+      "doctorName": "مي عوض ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "19-01-2026",
+      "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25096424580",
+      "serviceCode": "25096424580",
+      "nationalId": "1139143059",
+      "idNumber": "1139143059",
+      "name": "ريم مشعان نيف الدوسري  ",
+      "admissionDate": "22-01-2026",
+      "dischargeDate": "22-01-2026",
+      "leaveDuration": "1",
+      "doctorName": "مي عوض ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "22-01-2026",
+      "leaveType": "PSL"
     }
   ]
 }
