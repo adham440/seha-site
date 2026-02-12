@@ -1847,6 +1847,20 @@
       "jobTitle": "استشاري",
       "issueDate": "16-02-2026",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26026753582",
+      "serviceCode": "26026753582",
+      "nationalId": "1141879682",
+      "idNumber": "1141879682",
+      "name": " نوره ناصر  ",
+      "admissionDate": "12-02-2026",
+      "dischargeDate": "12-02-2026",
+      "leaveDuration": "1",
+      "doctorName": " مُنى سلطان الدهلاوي ",
+      "jobTitle": "استشاري",
+      "issueDate": "12-02-2026",
+      "leaveType": "PSL"
     }
   ]
 }
