@@ -1875,6 +1875,20 @@
       "jobTitle": "استشاري",
       "issueDate": "12-02-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "44396751259",
+      "serviceCode": "44396751259",
+      "nationalId": "1063193732",
+      "idNumber": "1063193732",
+      "name": " يوسف ملفي سعد المطيري  ",
+      "admissionDate": "15-02-2026",
+      "dischargeDate": "19-02-2026",
+      "leaveDuration": "5",
+      "doctorName": " محمد مجدي ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "15-02-2026",
+      "leaveType": "GSL"
     }
   ]
 }
