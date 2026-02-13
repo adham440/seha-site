@@ -1903,6 +1903,20 @@
       "jobTitle": "استشاري",
       "issueDate": "13-02-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "44396791267",
+      "serviceCode": "44396791267",
+      "nationalId": "1129812291",
+      "idNumber": "1129812291",
+      "name": " افياء مشبب تركي   ",
+      "admissionDate": "08-02-2026",
+      "dischargeDate": "10-02-2026",
+      "leaveDuration": "2",
+      "doctorName": " امجد رحمان ",
+      "jobTitle": "استشاري",
+      "issueDate": "08-02-2026",
+      "leaveType": "GSL"
     }
   ]
 }
