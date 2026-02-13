@@ -1889,6 +1889,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "15-02-2026",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396751260",
+      "serviceCode": "44396751260",
+      "nationalId": "1135844320",
+      "idNumber": "1135844320",
+      "name": " لورا سمير نعماني   ",
+      "admissionDate": "13-02-2026",
+      "dischargeDate": "13-02-2026",
+      "leaveDuration": "1",
+      "doctorName": " رهام صالح ",
+      "jobTitle": "استشاري",
+      "issueDate": "13-02-2026",
+      "leaveType": "PSL"
     }
   ]
 }
