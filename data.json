@@ -1917,6 +1917,20 @@
       "jobTitle": "استشاري",
       "issueDate": "08-02-2026",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396711259",
+      "serviceCode": "44396711259",
+      "nationalId": "1092541000",
+      "idNumber": "1092541000",
+      "name": " غالب حسين مولد   ",
+      "admissionDate": "13-02-2026",
+      "dischargeDate": "13-02-2026",
+      "leaveDuration": "1",
+      "doctorName": " محمد مجدي ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "13-02-2026",
+      "leaveType": "GSL"
     }
   ]
 }
