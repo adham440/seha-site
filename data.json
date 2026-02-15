@@ -2029,6 +2029,20 @@
       "jobTitle": "اطبيب عام",
       "issueDate": "2026-02-15",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396761259",
+      "serviceCode": "44396761259",
+      "nationalId": "1142336740",
+      "idNumber": "1142336740",
+      "name": " حمد راشد ضافي الدوسري ",
+      "admissionDate": "2026-02-19",
+      "dischargeDate": "2026-02-19",
+      "leaveDuration": "1",
+      "doctorName": "محمد مجدي   ",
+      "jobTitle": "اطبيب عام",
+      "issueDate": "2026-02-19",
+      "leaveType": "GSL"
     }
   ]
 }
