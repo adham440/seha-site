@@ -1973,6 +1973,20 @@
       "jobTitle": "استشاري",
       "issueDate": "2026-02-15",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44995751277",
+      "serviceCode": "44995751277",
+      "nationalId": "1146800444",
+      "idNumber": "1146800444",
+      "name": " الجوري مسعد باتل العنزي    ",
+      "admissionDate": "2026-02-15",
+      "dischargeDate": "2026-02-15",
+      "leaveDuration": "1",
+      "doctorName": " محمد أبو الفتوح ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-15",
+      "leaveType": "GSL"
     }
   ]
 }
