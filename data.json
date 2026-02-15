@@ -1987,6 +1987,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-15",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44995751278",
+      "serviceCode": "44995751278",
+      "nationalId": "1149382663",
+      "idNumber": "1149382663",
+      "name": " تالا محمد سيار العنزي    ",
+      "admissionDate": "2026-02-15",
+      "dischargeDate": "2026-02-15",
+      "leaveDuration": "1",
+      "doctorName": " محمد أبو الفتوح ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-15",
+      "leaveType": "GSL"
     }
   ]
 }
