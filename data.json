@@ -2085,6 +2085,20 @@
       "jobTitle": "اطبيب عام",
       "issueDate": "2026-02-16",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26016643575",
+      "serviceCode": "26016643575",
+      "nationalId": "1116765791",
+      "idNumber": "1116765791",
+      "name": " مرام عياش الرويلي ",
+      "admissionDate": "2026-02-16",
+      "dischargeDate": "2026-02-16",
+      "leaveDuration": "1",
+      "doctorName": "محمد احمد يعقوب   ",
+      "jobTitle": "اطبيب عام",
+      "issueDate": "2026-02-16",
+      "leaveType": "GSL"
     }
   ]
 }
