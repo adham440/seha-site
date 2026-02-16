@@ -2099,6 +2099,20 @@
       "jobTitle": "اطبيب عام",
       "issueDate": "2026-02-16",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "24396851280",
+      "serviceCode": "24396851280",
+      "nationalId": "1131907618",
+      "idNumber": "1131907618",
+      "name": " خلود مازن معتوق النجاوي ",
+      "admissionDate": "2026-02-15",
+      "dischargeDate": "2026-02-15",
+      "leaveDuration": "1",
+      "doctorName": "محمد مجدي   ",
+      "jobTitle": "اطبيب عام",
+      "issueDate": "2026-02-15",
+      "leaveType": "GSL"
     }
   ]
 }
