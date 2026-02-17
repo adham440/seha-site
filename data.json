@@ -2169,6 +2169,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-12",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25105683792",
+      "serviceCode": "25105683792",
+      "nationalId": "1136264221",
+      "idNumber": "1136264221",
+      "name": "ﻣﻴﺎده ﻋﻠﻲ ﻋﺒﺪ اﻟﺤﻤﻴﺪ ﻣﺤﻤﺪ اﻟﻜﻼﺑﻲ   ",
+      "admissionDate": "2026-02-17",
+      "dischargeDate": "2026-02-17",
+      "leaveDuration": "1",
+      "doctorName": "  ﻣﺤﻤﺪ ﻋﺒﺪﷲ اﻟﻘﺎﺳﻢ          ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-17",
+      "leaveType": "GSL"
     }
   ]
 }
