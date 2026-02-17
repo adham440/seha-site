@@ -2197,6 +2197,34 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-17",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396886950",
+      "serviceCode": "44396886950",
+      "nationalId": "1130720079",
+      "idNumber": "1130720079",
+      "name": "محمد بشيبش المسعودي   ",
+      "admissionDate": "2026-01-29",
+      "dischargeDate": "2026-01-29",
+      "leaveDuration": "1",
+      "doctorName": " راﻧﻴﺎ ﺳﻠﻴﻢ          ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-01-29",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396886043",
+      "serviceCode": "44396886043",
+      "nationalId": "1130720079",
+      "idNumber": "1130720079",
+      "name": "محمد بشيبش المسعودي   ",
+      "admissionDate": "2026-01-12",
+      "dischargeDate": "2026-01-12",
+      "leaveDuration": "1",
+      "doctorName": " راﻧﻴﺎ ﺳﻠﻴﻢ          ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-01-12",
+      "leaveType": "GSL"
     }
   ]
 }
