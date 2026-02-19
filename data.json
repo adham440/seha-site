@@ -2253,6 +2253,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-01",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44315851236",
+      "serviceCode": "44315851236",
+      "nationalId": "1138941487",
+      "idNumber": "1138941487",
+      "name": " فهد ظافر محمد الشهري",
+      "admissionDate": "2026-02-08",
+      "dischargeDate": "2026-02-011",
+      "leaveDuration": "4",
+      "doctorName": "رنيا سلم   ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-01",
+      "leaveType": "GSL"
     }
   ]
 }
