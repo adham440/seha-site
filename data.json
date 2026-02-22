@@ -2268,6 +2268,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-19",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396761297",
+      "serviceCode": "44396761297",
+      "nationalId": "1108571108",
+      "idNumber": "1108571108",
+      "name": " مالكه مساعد العتيبي",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "احمد حجازي   ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-25",
+      "leaveType": "GSL"
     }
   ]
 }
