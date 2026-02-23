@@ -2296,6 +2296,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-23",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44395383015",
+      "serviceCode": "44395383015",
+      "nationalId": "1152967632",
+      "idNumber": "1152967632",
+      "name": "جود محمد  ",
+      "admissionDate": "2026-02-23",
+      "dischargeDate": "2026-02-23",
+      "leaveDuration": "1",
+      "doctorName": "رانيا سليم ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-23",
+      "leaveType": "GSL"
     }
   ]
 }
