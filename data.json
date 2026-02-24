@@ -2408,6 +2408,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-23",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25119868532",
+      "serviceCode": "25119868532",
+      "nationalId": "1120387848",
+      "idNumber": "1120387848",
+      "name": "ناصر محمد الغامدي  ",
+      "admissionDate": "2026-02-24",
+      "dischargeDate": "2026-02-24",
+      "leaveDuration": "1",
+      "doctorName": "ارقم حسن ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-24",
+      "leaveType": "GSL"
     }
   ]
 }
