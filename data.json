@@ -2390,9 +2390,23 @@
       "admissionDate": "2026-02-17",
       "dischargeDate": "2026-02-17",
       "leaveDuration": "1",
-      "doctorName": "نجلاء صلاح الدین شفیق امام ",
-      "jobTitle": "نائب",
+      "doctorName": "حنين بخارى ",
+      "jobTitle": "طبيب عام",
       "issueDate": "2026-02-17",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396851257",
+      "serviceCode": "44396851257",
+      "nationalId": "1137523203",
+      "idNumber": "1137523203",
+      "name": "رنا ياسر محمد بحراوي  ",
+      "admissionDate": "2026-02-23",
+      "dischargeDate": "2026-02-23",
+      "leaveDuration": "1",
+      "doctorName": "حنين بخارى ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-23",
       "leaveType": "GSL"
     }
   ]
