@@ -2324,6 +2324,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-24",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "260129110316",
+      "serviceCode": "260129110316",
+      "nationalId": "1137523203",
+      "idNumber": "1137523203",
+      "name": "رنا ياسر محمد بحراوي  ",
+      "admissionDate": "2026-02-19",
+      "dischargeDate": "2026-02-19",
+      "leaveDuration": "1",
+      "doctorName": "حمة عبد العزيز عبد العزيز ",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-02-19",
+      "leaveType": "GSL"
     }
   ]
 }
