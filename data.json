@@ -2464,6 +2464,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-23",
       "leaveType": "PSL"
-    }
+    },
+      {
+      "leaveCode": "25096746856",
+      "serviceCode": "25096746856",
+      "nationalId": "1133844348",
+      "idNumber": "1133844348",
+      "name": "ساره محمد متعب   ",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "مي عوض ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-25",
+      "leaveType": "GSL"
+      }
   ]
 }
