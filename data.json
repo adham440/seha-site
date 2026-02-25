@@ -2506,6 +2506,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-24",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396471247",
+      "serviceCode": "44396471247",
+      "nationalId": "1125137537",
+      "idNumber": "1125137537",
+      "name": "ريناد خالد سعود العنزي   ",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "علي ال داوود ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-25",
+      "leaveType": "GSL"
     }
   ]
 }
