@@ -2562,6 +2562,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-17",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396471249",
+      "serviceCode": "44396471249",
+      "nationalId": "2222355253",
+      "idNumber": "2222355253",
+      "name": "خالد فيصل الصخري",
+      "admissionDate": "2026-02-24",
+      "dischargeDate": "2026-02-24",
+      "leaveDuration": "1",
+      "doctorName": "سلطان العتيبي  ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-24",
+      "leaveType": "GSL"
     }
   ]
 }
