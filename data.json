@@ -2516,9 +2516,23 @@
       "admissionDate": "2026-02-25",
       "dischargeDate": "2026-02-25",
       "leaveDuration": "1",
-      "doctorName": "علي ال داوود ",
-      "jobTitle": "طبيب عام",
+      "doctorName": "سلمى حسين",
+      "jobTitle": " استشاري باطنية",
       "issueDate": "2026-02-25",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396471246",
+      "serviceCode": "44396471246",
+      "nationalId": "1122027673",
+      "idNumber": "1122027673",
+      "name": "عبدالله مشرف الغامدي",
+      "admissionDate": "2026-02-23",
+      "dischargeDate": "2026-02-23",
+      "leaveDuration": "1",
+      "doctorName": "محمد الشهري  ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-23",
       "leaveType": "GSL"
     }
   ]
