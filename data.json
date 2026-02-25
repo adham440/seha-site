@@ -2576,6 +2576,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-24",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396751258",
+      "serviceCode": "44396751258",
+      "nationalId": "1074059328",
+      "idNumber": "1074059328",
+      "name": "نجود محمد العصيمي  ",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "رنيا سليم   ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-25",
+      "leaveType": "GSL"
     }
   ]
 }
