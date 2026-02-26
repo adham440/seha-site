@@ -2618,6 +2618,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-26",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26025642587",
+      "serviceCode": "26025642587",
+      "nationalId": "1132578160",
+      "idNumber": "1132578160",
+      "name": "صباح احمد شعيب هوساوي  ",
+      "admissionDate": "2026-02-24",
+      "dischargeDate": "2026-02-24",
+      "leaveDuration": "1",
+      "doctorName": "مجدي محمد الاحمر   ",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-02-24",
+      "leaveType": "GSL"
     }
   ]
 }
