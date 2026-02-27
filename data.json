@@ -2646,6 +2646,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-27",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44390873019",
+      "serviceCode": "44390873019",
+      "nationalId": "1138213978",
+      "idNumber": "1138213978",
+      "name": "معاذ بن ناجي مسعد المطيري    ",
+      "admissionDate": "2026-02-26",
+      "dischargeDate": "2026-01-26",
+      "leaveDuration": "1",
+      "doctorName": " راﻧﻴﺎ ﺳﻠﻴﻢ          ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-26",
+      "leaveType": "GSL"
     }
   ]
 }
