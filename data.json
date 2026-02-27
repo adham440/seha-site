@@ -2620,8 +2620,8 @@
       "leaveType": "GSL"
     },
     {
-      "leaveCode": "26014586465",
-      "serviceCode": "26014586465",
+      "leaveCode": "26025642587",
+      "serviceCode": "26025642587",
       "nationalId": "1132578160",
       "idNumber": "1132578160",
       "name": "صباح احمد شعيب هوساوي  ",
@@ -2631,6 +2631,20 @@
       "doctorName": "مجدي محمد الاحمر   ",
       "jobTitle": "استشاري",
       "issueDate": "2026-02-24",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26014586465",
+      "serviceCode": "26014586465",
+      "nationalId": "1113770505",
+      "idNumber": "1113770505",
+      "name": "عبد الله ابراهيم حكمي  ",
+      "admissionDate": "2026-02-27",
+      "dischargeDate": "2026-02-27",
+      "leaveDuration": "1",
+      "doctorName": "محمد عبد الله القاسم   ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-27",
       "leaveType": "GSL"
     }
   ]
