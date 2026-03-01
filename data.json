@@ -2702,6 +2702,34 @@
       "jobTitle": "استشاري",
       "issueDate": "2026-02-02",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396471253",
+      "serviceCode": "44396471253",
+      "nationalId": "1103021141",
+      "idNumber": "1103021141",
+      "name": "أمجاد بدير الحازمي  ",
+      "admissionDate": "2026-03-01",
+      "dischargeDate": "2026-03-01",
+      "leaveDuration": "1",
+      "doctorName": "علي ال داوود   ",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-03-01",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44837602064",
+      "serviceCode": "44837602064",
+      "nationalId": "1101182606",
+      "idNumber": "1101182606",
+      "name": "محمود عبدالعزيز فلاته    ",
+      "admissionDate": "2026-02-28",
+      "dischargeDate": "2026-01-28",
+      "leaveDuration": "1",
+      "doctorName": " راﻧﻴﺎ ﺳﻠﻴﻢ          ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-28",
+      "leaveType": "GSL"
     }
   ]
 }
