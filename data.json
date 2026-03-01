@@ -2730,6 +2730,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-28",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "260209122118",
+      "serviceCode": "260209122118",
+      "nationalId": "1045317847",
+      "idNumber": "1045317847",
+      "name": "سوسن حامد عبد القادر الينبعاوي  ",
+      "admissionDate": "2026-02-09",
+      "dischargeDate": "2026-03-05",
+      "leaveDuration": "25",
+      "doctorName": "حسنه القرني   ",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-02-09",
+      "leaveType": "GSL"
     }
   ]
 }
