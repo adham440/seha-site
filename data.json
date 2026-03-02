@@ -2772,6 +2772,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-19",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26035653368",
+      "serviceCode": "26035653368",
+      "nationalId": "1100958774",
+      "idNumber": "1100958774",
+      "name": "  بدر احمد سراح الشهري ",
+      "admissionDate": "2026-03-02",
+      "dischargeDate": "2026-03-05",
+      "leaveDuration": "4",
+      "doctorName": " محمد عبدالله القاسم",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-03-02",
+      "leaveType": "GSL"
     }
   ]
 }
