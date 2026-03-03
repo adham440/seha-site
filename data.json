@@ -2814,6 +2814,20 @@
       "jobTitle": "استشاري",
       "issueDate": "2026-03-01",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25105683793",
+      "serviceCode": "25105683793",
+      "nationalId": "1136264221",
+      "idNumber": "1136264221",
+      "name": "مياده علي عبد الحميد محمد الكلابي  ",
+      "admissionDate": "2026-03-03",
+      "dischargeDate": "2026-03-03",
+      "leaveDuration": "1",
+      "doctorName": "نايف بن صالح الغنيمي   ",
+      "jobTitle": "اطبيب عام",
+      "issueDate": "2026-03-03",
+      "leaveType": "PSL"
     }
   ]
 }
