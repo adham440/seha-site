@@ -2800,6 +2800,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-03-03",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396471257",
+      "serviceCode": "44396471257",
+      "nationalId": "1117359990",
+      "idNumber": "1117359990",
+      "name": "  مريم عبدالكافي نواب الدين النواب ",
+      "admissionDate": "2026-03-01",
+      "dischargeDate": "2026-03-02",
+      "leaveDuration": "2",
+      "doctorName": " علي ال داوود",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-03-01",
+      "leaveType": "GSL"
     }
   ]
 }
