@@ -2828,6 +2828,20 @@
       "jobTitle": "استشاري",
       "issueDate": "2026-03-03",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "44396471258",
+      "serviceCode": "44396471258",
+      "nationalId": "1097345688",
+      "idNumber": "1097345688",
+      "name": "  رغد محمد نغيمش العنزي ",
+      "admissionDate": "2026-03-03",
+      "dischargeDate": "2026-03-03",
+      "leaveDuration": "1",
+      "doctorName": "رغدة عبد الله",
+      "jobTitle": "استشاري",
+      "issueDate": "2026-03-03",
+      "leaveType": "GSL"
     }
   ]
 }
