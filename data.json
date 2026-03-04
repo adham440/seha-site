@@ -2898,6 +2898,20 @@
       "jobTitle": "استشاري",
       "issueDate": "2026-03-02",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26015689363",
+      "serviceCode": "26015689363",
+      "nationalId": "1007018458",
+      "idNumber": "1007018458",
+      "name": "مريم لافي سليم العطوي  ",
+      "admissionDate": "2026-03-04",
+      "dischargeDate": "2026-03-05",
+      "leaveDuration": "5",
+      "doctorName": "عزة عاشور   ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-04",
+      "leaveType": "GSL"
     }
   ]
 }
