@@ -2996,6 +2996,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-02-26",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26015689370",
+      "serviceCode": "26015689370",
+      "nationalId": "1133533586",
+      "idNumber": "1133533586",
+      "name": "باسل راشد الحربي  ",
+      "admissionDate": "2026-03-04",
+      "dischargeDate": "2026-03-05",
+      "leaveDuration": "2",
+      "doctorName": "  احمد رمزي  ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-03-04",
+      "leaveType": "PSL"
     }
   ]
 }
