@@ -2982,6 +2982,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-02-25",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26015689369",
+      "serviceCode": "26015689369",
+      "nationalId": "1136514641",
+      "idNumber": "1136514641",
+      "name": "ريما صالح الأحمري  ",
+      "admissionDate": "2026-02-26",
+      "dischargeDate": "2026-02-26",
+      "leaveDuration": "1",
+      "doctorName": "  محمد القوزي ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-02-26",
+      "leaveType": "PSL"
     }
   ]
 }
