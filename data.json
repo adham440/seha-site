@@ -2912,6 +2912,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-04",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26015689364",
+      "serviceCode": "26015689364",
+      "nationalId": "1125431401",
+      "idNumber": "1125431401",
+      "name": "غلا فهد الحارثي  ",
+      "admissionDate": "2026-03-04",
+      "dischargeDate": "2026-03-04",
+      "leaveDuration": "1",
+      "doctorName": "عزة عاشور   ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-04",
+      "leaveType": "GSL"
     }
   ]
 }
