@@ -3024,6 +3024,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-01-21",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26015689372",
+      "serviceCode": "26015689372",
+      "nationalId": "2257290458",
+      "idNumber": "2257290458",
+      "name": "حلا محمد عبدالوهاب  ",
+      "admissionDate": "2026-03-03",
+      "dischargeDate": "2026-03-03",
+      "leaveDuration": "1",
+      "doctorName": "  عزة عاشور  ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-03",
+      "leaveType": "GSL"
     }
   ] 
 }
