@@ -3080,6 +3080,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-07",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25128457644",
+      "serviceCode": "25128457644",
+      "nationalId": "1119043642",
+      "idNumber": "1119043642",
+      "name": "اسیل سالم حمدان العروي ",
+      "admissionDate": "2026-03-08",
+      "dischargeDate": "2026-03-08",
+      "leaveDuration": "1",
+      "doctorName": "  حسن علي المسلم   ",
+      "jobTitle": "طبيب اسنان ",
+      "issueDate": "2026-03-08",
+      "leaveType": "GSL"
     }
   ] 
 }
