@@ -3094,6 +3094,20 @@
       "jobTitle": "طبيب اسنان ",
       "issueDate": "2026-03-08",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26022619689",
+      "serviceCode": "26022619689",
+      "nationalId": "1090119510",
+      "idNumber": "1090119510",
+      "name": "منير هزاع عبدالرحمن الشيباني ",
+      "admissionDate": "2025-01-14",
+      "dischargeDate": "2025-01-14",
+      "leaveDuration": "1",
+      "doctorName": "  منال منير ابراهيم العسيري ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2025-01-14",
+      "leaveType": "PSL"
     }
   ] 
 }
