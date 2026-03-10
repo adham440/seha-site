@@ -3108,6 +3108,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2025-01-14",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26022619690",
+      "serviceCode": "26022619690",
+      "nationalId": "1090119510",
+      "idNumber": "1090119510",
+      "name": "نجود محمد محسن العتيبي ",
+      "admissionDate": "2026-03-10",
+      "dischargeDate": "2026-03-10",
+      "leaveDuration": "1",
+      "doctorName": "  منال منير ابراهيم العسيري ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-06-13",
+      "leaveType": "PSL"
     }
   ] 
 }
