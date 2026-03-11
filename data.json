@@ -3122,6 +3122,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-13",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25128457672",
+      "serviceCode": "25128457672",
+      "nationalId": "1098684739",
+      "idNumber": "1098684739",
+      "name": "حسناء احمد حسن الشهري  ",
+      "admissionDate": "2026-03-12",
+      "dischargeDate": "2026-03-12",
+      "leaveDuration": "1",
+      "doctorName": "  حسن علي المسلم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-12",
+      "leaveType": "GSL"
     }
   ] 
 }
