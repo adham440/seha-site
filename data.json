@@ -3136,6 +3136,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-12",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25128457673",
+      "serviceCode": "25128457673",
+      "nationalId": "1129115299",
+      "idNumber": "1129115299",
+      "name": "سالم بطي الشهراني  ",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "  عمر الجنيد ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-02-25",
+      "leaveType": "PSL"
     }
   ] 
 }
