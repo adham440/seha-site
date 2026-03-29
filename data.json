@@ -3220,6 +3220,20 @@
       "jobTitle": "طبيب أسنان عام ",
       "issueDate": "2026-03-26",
       "leaveType": "PSL"
-    }
+    },
+    {
+      "leaveCode": "25123196283",
+      "serviceCode": "25123196283",
+      "nationalId": "1154962359",
+      "idNumber": "1154962359",
+      "name": "عمر عبدالله احمد الحارثي ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-29",
+      "leaveDuration": "1",
+      "doctorName": "محمد عيد محفوظ ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-03-29",
+      "leaveType": "GSL"
+    },
   ] 
 }
