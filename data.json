@@ -3304,6 +3304,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-05-07",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790260944",
+      "serviceCode": "28790260944",
+      "nationalId": "2233094545",
+      "idNumber": "2233094545",
+      "name": " محمد بدوي خالد أشرف  ",
+      "admissionDate": "2026-05-14",
+      "dischargeDate": "2026-05-14",
+      "leaveDuration": "1",
+      "doctorName": " فؤاد زيدان",
+      "jobTitle" اخصائي جراحة العظام",
+      "issueDate": "2026-05-14",
+      "leaveType": "PSL"
     }
   ] 
 }
