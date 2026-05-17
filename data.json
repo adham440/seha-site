@@ -3360,6 +3360,20 @@
       "jobTitle":" نائب",
       "issueDate": "2026-04-14",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25031838291",
+      "serviceCode": "25031838291",
+      "nationalId": "1111133763",
+      "idNumber": "1111133763",
+      "name": " هيلالا ناصر خلف الدوسري  ",
+      "admissionDate": "2026-04-28",
+      "dischargeDate": "2026-04-28",
+      "leaveDuration": "1",
+      "doctorName": " هيلالا ناصر خلف الدوسري",
+      "jobTitle":" نائب",
+      "issueDate": "2026-04-28",
+      "leaveType": "GSL"
     }
   ] 
 }
