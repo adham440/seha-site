@@ -3374,6 +3374,20 @@
       "jobTitle":" نائب",
       "issueDate": "2026-04-28",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26034542587",
+      "serviceCode": "26034542587",
+      "nationalId": "1057145714",
+      "idNumber": "1057145714",
+      "name": " رحمه علي عبد الله البحيري  ",
+      "admissionDate": "2026-05-17",
+      "dischargeDate": "2026-05-17",
+      "leaveDuration": "1",
+      "doctorName": " احمد الغامدي",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-05-17",
+      "leaveType": "GSL"
     }
   ] 
 }
