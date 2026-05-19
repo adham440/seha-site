@@ -3388,6 +3388,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-05-17",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26034542588",
+      "serviceCode": "26034542588",
+      "nationalId": "1136443635",
+      "idNumber": "1136443635",
+      "name": " اسيل عياش لابد الصقري العنزي  ",
+      "admissionDate": "2026-05-09",
+      "dischargeDate": "2026-05-12",
+      "leaveDuration": "4",
+      "doctorName": " احمد الغامدي",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-05-09",
+      "leaveType": "GSL"
     }
   ] 
 }
