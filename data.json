@@ -3402,6 +3402,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-05-09",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790260930",
+      "serviceCode": "28790260930",
+      "nationalId": "1140532381",
+      "idNumber": "1140532381",
+      "name": " صالحه سعود الجعيد  ",
+      "admissionDate": "2026-05-11",
+      "dischargeDate": "2026-05-11",
+      "leaveDuration": "1",
+      "doctorName": " احمد الغامدي",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-05-11",
+      "leaveType": "GSL"
     }
   ] 
 }
