@@ -3458,6 +3458,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-05-21",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790287638",
+      "serviceCode": "28790287638",
+      "nationalId": "1115327262",
+      "idNumber": "1115327262",
+      "name": " غدير محمد الصخري  ",
+      "admissionDate": "2026-05-14",
+      "dischargeDate": "2026-05-14",
+      "leaveDuration": "1",
+      "doctorName": " عبدالوهاب القحطاني",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-05-14",
+      "leaveType": "GSL"
     }
   ] 
 }
