@@ -3500,6 +3500,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-05-25",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790287640",
+      "serviceCode": "28790287640",
+      "nationalId": "1117767275",
+      "idNumber": "1117767275",
+      "name": " فادي محمد عواض المالكي  ",
+      "admissionDate": "2026-05-24",
+      "dischargeDate": "2026-05-24",
+      "leaveDuration": "1",
+      "doctorName": " محمد اسماعیل حامد احمد",
+      "jobTitle":" نائب",
+      "issueDate": "2026-05-24",
+      "leaveType": "PSL"
     }
   ] 
 }
