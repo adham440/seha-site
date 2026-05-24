@@ -3528,6 +3528,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-05-23",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26034542595",
+      "serviceCode": "26034542595",
+      "nationalId": "1109360501",
+      "idNumber": "1109360501",
+      "name": " عايشه فهد الحربي  ",
+      "admissionDate": "2026-05-24",
+      "dischargeDate": "2026-05-24",
+      "leaveDuration": "1",
+      "doctorName": " ريان جمال",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-05-24",
+      "leaveType": "GSL"
     }
   ] 
 }
