@@ -3598,6 +3598,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-05-31",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790260105",
+      "serviceCode": "28790260105",
+      "nationalId": "1059963395",
+      "idNumber": "1059963395",
+      "name": " إﻳﻤﺎن ﻣﺴﻠﻢ رﻓﻴﻊ اﻟﺒﻠﻮي  ",
+      "admissionDate": "2026-06-02",
+      "dischargeDate": "2026-06-03",
+      "leaveDuration": "2",
+      "doctorName": " احمد الغامدي",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-06-02",
+      "leaveType": "GSL"
     }
   ] 
 }
