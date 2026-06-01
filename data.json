@@ -3584,6 +3584,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-05-30",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790260106",
+      "serviceCode": "28790260106",
+      "nationalId": "1107477786",
+      "idNumber": "1107477786",
+      "name": " نوره هويشل الخالدي  ",
+      "admissionDate": "2026-05-31",
+      "dischargeDate": "2026-05-31",
+      "leaveDuration": "1",
+      "doctorName": " احمد عبدالرحمن",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-05-31",
+      "leaveType": "GSL"
     }
   ] 
 }
