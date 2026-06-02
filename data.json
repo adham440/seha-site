@@ -3724,6 +3724,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-04-06",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44396851257",
+      "serviceCode": "44396851257",
+      "nationalId": "1102030937",
+      "idNumber": "1102030937",
+      "name": " رياء فهد عبدالعزيز الجودي  ",
+      "admissionDate": "2026-06-02",
+      "dischargeDate": "2026-06-02",
+      "leaveDuration": "1",
+      "doctorName": "حمة عبدالعزيز عبدالعزيز",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-06-02",
+      "leaveType": "GSL"
     }
   ] 
 }
