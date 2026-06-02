@@ -3668,6 +3668,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-03-01",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26014829172",
+      "serviceCode": "26014829172",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": " فهيد ناجم فهد السبيعي  ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-30",
+      "leaveDuration": "2",
+      "doctorName": " محمد البكري",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-03-29",
+      "leaveType": "GSL"
     }
   ] 
 }
