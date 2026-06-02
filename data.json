@@ -3696,6 +3696,34 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-02-23",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26014829174",
+      "serviceCode": "26014829174",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": " فهيد ناجم فهد السبيعي  ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "عبدالواهاب القحطاني",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-04-05",
+      "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26014829175",
+      "serviceCode": "26014829175",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": " فهيد ناجم فهد السبيعي  ",
+      "admissionDate": "2026-04-06",
+      "dischargeDate": "2026-04-06",
+      "leaveDuration": "1",
+      "doctorName": "عبدالوهاب القحطاني",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-04-06",
+      "leaveType": "GSL"
     }
   ] 
 }
