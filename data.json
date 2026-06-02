@@ -3612,6 +3612,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-06-02",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26034542597",
+      "serviceCode": "26034542597",
+      "nationalId": "11308925489",
+      "idNumber": "11308925489",
+      "name": " محمد فهد العتيبي  ",
+      "admissionDate": "2026-06-02",
+      "dischargeDate": "2026-06-03",
+      "leaveDuration": "2",
+      "doctorName": " عبدالله العتيبي",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-06-02",
+      "leaveType": "GSL"
     }
   ] 
 }
