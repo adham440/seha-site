@@ -3654,6 +3654,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-02-25",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "26014829171",
+      "serviceCode": "26014829171",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": " فهيد ناجم فهد السبيعي  ",
+      "admissionDate": "2026-03-01",
+      "dischargeDate": "2026-03-02",
+      "leaveDuration": "2",
+      "doctorName": " عبير شعبان",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-03-01",
+      "leaveType": "GSL"
     }
   ] 
 }
