@@ -3752,6 +3752,20 @@
       "jobTitle":" استشاري طب وجراحة العيون",
       "issueDate": "2026-06-01",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "44396851259",
+      "serviceCode": "44396851259",
+      "nationalId": "11730969932",
+      "idNumber": "11730969932",
+      "name": " لورين عبدالله الشهري  ",
+      "admissionDate": "2026-06-02",
+      "dischargeDate": "2026-06-04",
+      "leaveDuration": "3",
+      "doctorName": "هاني شاكر العدل",
+      "jobTitle":" نائب",
+      "issueDate": "2026-06-02",
+      "leaveType": "PSL"
     }
   ] 
 }
