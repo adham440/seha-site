@@ -3738,6 +3738,20 @@
       "jobTitle":" استشاري",
       "issueDate": "2026-06-02",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25080214287",
+      "serviceCode": "25080214287",
+      "nationalId": "1024491969",
+      "idNumber": "1024491969",
+      "name": " وﻓﺎء ﻣﺤﻤﺪ ﺻﺎﻟﺢ اﻟﺰرﻳﻘﻲ  ",
+      "admissionDate": "2026-06-01",
+      "dischargeDate": "2026-06-04",
+      "leaveDuration": "4",
+      "doctorName": "ﺳﺎرة ﻣﺤﻤﺪ اﻟﻘﺤﻄﺎﻧﻲ",
+      "jobTitle":" أﺧﺼﺎﺋﻴﺔ ﻧﺴﺎء ووﻻدة",
+      "issueDate": "2026-06-01",
+      "leaveType": "PSL"
     }
   ] 
 }
