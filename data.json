@@ -3808,6 +3808,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-06-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260931",
+      "serviceCode": "28790260931",
+      "nationalId": "1140532381",
+      "idNumber": "1140532381",
+      "name": " صالحه سعود الجعيد  ",
+      "admissionDate": "2026-06-03",
+      "dischargeDate": "2026-06-03",
+      "leaveDuration": "1",
+      "doctorName": " صالح القحطاني",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-06-03",
+      "leaveType": "GSL"
     }
   ] 
 }
