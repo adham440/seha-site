@@ -3864,6 +3864,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-04-28",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790287656",
+      "serviceCode": "28790287656",
+      "nationalId": "1119345443",
+      "idNumber": "1119345443",
+      "name": " رحاب عبدالله الأشقر  ",
+      "admissionDate": "2026-04-29",
+      "dischargeDate": "2026-04-29",
+      "leaveDuration": "1",
+      "doctorName": "  محمود مرسى السيد ابراهيم",
+      "jobTitle":" طبيب عام",
+      "issueDate": "2026-04-29",
+      "leaveType": "PSL"
     }
   ] 
 }
