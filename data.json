@@ -3907,6 +3907,19 @@
       "issueDate": "2026-06-15",
       "leaveType": "PSL"
     }
-
+{
+      "leaveCode": "28790260933",
+      "serviceCode": "28790260933",
+      "nationalId": "1136997309",
+      "idNumber": "1136997309",
+      "name": " وجد عوض الرويلي  ",
+      "admissionDate": "2026-06-14",
+      "dischargeDate": "2026-06-14",
+      "leaveDuration": "1",
+      "doctorName": "  صالح القحطاني",
+      "jobTitle":" استشاري",
+      "issueDate": "2026-06-14",
+      "leaveType": "GSL"
+    }
   ] 
 }
