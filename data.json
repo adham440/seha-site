@@ -3892,6 +3892,20 @@
       "jobTitle":" طبيب عام",
       "issueDate": "2026-06-14",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790287658",
+      "serviceCode": "28790287658",
+      "nationalId": "1109099133",
+      "idNumber": "1109099133",
+      "name": " سمر عابد عبدالله المغربي  ",
+      "admissionDate": "2026-06-15",
+      "dischargeDate": "2026-06-15",
+      "leaveDuration": "1",
+      "doctorName": "  ايمان اسماعيل",
+      "jobTitle":" نائب",
+      "issueDate": "2026-06-15",
+      "leaveType": "PSL"
     }
 
   ] 
